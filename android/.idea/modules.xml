@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PocApple.iml" filepath="$PROJECT_DIR$/.idea/modules/PocApple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PocApple.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PocApple.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1840005304/PocApple.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1840005304/PocApple.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1392171377/PocApple.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1392171377/PocApple.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1009296851/PocApple.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1009296851/PocApple.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1490495688/PocApple.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1490495688/PocApple.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/16080208/PocApple.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/16080208/PocApple.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>
